@@ -1,4 +1,4 @@
-## Nail Your DevOps Interview - CI/CD'
+## Nail Your DevOps Interview'
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -9,7 +9,6 @@
   - [5. Cloud services Questions ](#5-cloud-services-questions-)
   - [6. Applications and Services Questions ](#6-applications-and-services-questions-)
   - [7. Wrapping Up your Interview ](#7-wrapping-up-your-interview-)
-  - [8. CI Installations ](#8-ci-installations-)
 
 
 ## 1. Introduction <a name="1"></a>
@@ -125,7 +124,38 @@
 * Indent management
 * Security
 * Quiz:
-  * 
+  * Question 1 of 8: What is a a common use for command line tools in DevOps roles?
+    * sending alerts and notifications
+    * extracting information from systems  (correct answer)
+    * running tests in a CI/CD pipeline  
+  * Question 2 of 8: What's a good approach for answering questions about your experience with operating systems?
+    * show-and-tell method
+    * definition method
+    * THX method: time, how, experience (correct answer)
+  * Question 3 of 8: What's the best way to begin your response when prompted with a troubleshooting scenario?
+    * Start by listing the various types of systems you've worked on.
+    * Start by explaining that you've never had the need to troubleshoot.
+    * Start by asking questions about the scenario. (correct answer)
+  * Question 4 of 8: What feature of version control helps with collaboration between development and operations teams?
+    * requests for comments
+    * change requests
+    * pull requests (correct answer)
+  * Question 5 of 8: You've just joined a team and need to get the code for a project that is already being developed. The team is using git to manage the code. What command would you use to download a copy of the code so you can start working on it?
+    * git clone (correct answer)
+    * git pull
+    * git init
+  * Question 6 of 8: Why is scripting an important part of DevOps?
+    * Scripting is useful because APIs can only be accessed with Python scripts.
+    * Scripting is useful because Bash is the only language that can be used for DevOps tasks.
+    * Scripting is useful for automating any sort of process that needs to be repeated the same way every time. (correct answer)
+  * Question 7 of 8: When considering the security of compute systems, the acronym CIA is often used. What does CIA stand for in this context?
+    * central, intelligence, and agency
+    * confidentiality, integrity, and availability (correct answer)
+    * continuous, integration, and automation
+  * Question 8 of 8: If you are asked about your experience with incident management, what's a good way to wrap up your response to the question?
+    * including details on improving alerting and notifications
+    * including details on what you learned from the incident (correct answer)
+    * including details on how you handed the incident off to another team member
 ## 5. Cloud services Questions <a name="5"></a>
 * Cloud services and their benefits: Scalability
 * Architecting cloud solutions
@@ -134,19 +164,51 @@
   * Modularity and Reuse
   * Infrastructure: AWS, Google Cloud, Azure.
 * Quiz
-  * 
+  * Question 1 of 3: Which of these is the best description for infrastructure as code?
+    * With infrastructure as code, engineers use code to collaborate with developers and architects.
+    * With infrastructure as code, engineers use code authenticate users that log into web applications.
+    * With infrastructure as code, engineers use code to describe the servers, load balancers, firewalls, and other resources that create a system. (correct answer)
+  * Question 2 of 3: When answering questions about cloud architecture, you need to demonstrate your ability to translate business requirements into deliverable solutions.
+    * FALSE
+    * TRUE (correct answer)
+  * Question 3 of 3: Your interviewer has asked about your experience with migrating a service from an on-premises data center to a cloud provider. What's the best approach for sharing your experience?
+    * story time method, describing the last cloud migration you participated in (correct answer)
+    * evasion method, asking to skip this question and move on to the next one
+    * definition method, describing the benefits of migrating to the cloud
 ## 6. Applications and Services Questions <a name="6"></a>
 * Web servers: Apache vs NGINX
 * Databases
-* Containers
-* Challenge: Diagramming web architecture
-* Solution: Diagramming web architecture (see solution in Pdf file)
+* Containers: 
+  * Dockerfile - text document with commands to assemble an image
+  * Container Image: Credited from the dockerfile
+* Challenge: N-tier web architecture
+* Solution:   
+   <iframe width="100%" height="500" src="Solution - N-Tier Web Architecture.pdf">
 * Quiz
-  * 
+  * Question 1 of 4: Why are containers important for DevOps?
+    * Containers lead to consistent storage of code that keeps applications fresh.
+    * Containers lead to consistent development and deployment methodologies that can be iterated easily. (correct answer)
+    * Containers are the only processes that can be run on cloud infrastructure.
+  * Question 2 of 4: What file is used to describe a container image?
+    * Jenkinsfile
+    * Makefile
+    * Dockerfile (correct answer) 
+  * Question 3 of 4: What's one the main benefits of using NoSQL databases?
+    * NoSQL databases keep data models unchanged over time.
+    * NoSQL databases work with data models like a spreadsheet.
+    * NoSQL databases allow data models to change over time. (correct answer)
+  * Question 4 of 4: How is NGINX used in modern web application architectures?
+    * NGINX is used to serve both static and dynamic content without interacting with other applications.
+    * NGINX is used to serve static content and proxy to other applications for dynamic content. (correct answer)
+    * NGINX is used to serve dynamic content and proxy to other applications for static content.
 ## 7. Wrapping Up your Interview <a name="7"></a>
 * Asking Questions
 * Following up
 * Quiz
-
-
-## 8. CI Installations <a name="8"></a>
+  * Question 1 of 2: Following up with a note after an interview is a great for _____.
+    * expressing appreciation for the interviewer's time and showing continued interest in the job (correct answer)
+    * letting the interviewer know you have offers from other companies
+    * asking the interviewer for the first available start date in advance of a job offer
+  * Question 2 of 2: Asking questions offers an opportunity for the candidate to manage the interview.
+    * TRUE (correct answer)
+    * FALSE
