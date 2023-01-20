@@ -1,9 +1,21 @@
 ## Nail Your DevOps Interview - CI/CD'
-# 0. Introduction
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+  - [1. Introduction ](#1-introduction-)
+  - [2. Interview Prep ](#2-interview-prep-)
+  - [3. DevOps Business Practices Questions ](#3-devops-business-practices-questions-)
+  - [4. Common DevOps Skills ](#4-common-devops-skills-)
+  - [5. Cloud services Questions ](#5-cloud-services-questions-)
+  - [6. Applications and Services Questions ](#6-applications-and-services-questions-)
+  - [7. Wrapping Up your Interview ](#7-wrapping-up-your-interview-)
+
+
+## 1. Introduction <a name="1"></a>
 * Transform your career in DevOps
 * What you should know
 * DevOps vs. SRE (Site reliability engineer) vs. Automation Engineer
-# 1. Interview Prep
+## 2. Interview Prep <a name="2"></a>
 * Preparing for the interview
 * Researching the opportunity
 * Getting DevOps experience
@@ -44,8 +56,12 @@
   * Briefly summarize your professional background. (correct answer)
   * Starting from your childhood, explain how you became interested in your career choice. List the classes and training you took to become qualified in your field.
 
-# 2. DevOps Business Practices Questions
-* Defining DevOps
+## 3. DevOps Business Practices Questions <a name="3"></a>
+* Defining DevOps: CAMS
+  * Culture
+  * Automation
+  * Measurement 
+  * Sharing
 * The DevOps lifecycle
 * Lean vs Agile vs DevOps
 * CI/CD
@@ -55,7 +71,7 @@
 * Challenge: CI/CD
 * Quiz:
   * 
-# 3. Common DevOps Skills
+## 4. Common DevOps Skills <a name="4"></a>
 * Operating systems
 * Command line tools
 * Scripting and Programming
@@ -65,13 +81,13 @@
 * Security
 * Quiz:
   * 
-# 4. Cloud services Questions
+## 5. Cloud services Questions <a name="5"></a>
 * Cloud services and their benefits
 * Architecting cloud solutions
 * Infrastructure as code
 * Quiz
   * 
-# 5. Applications and Services Questions
+## 6. Applications and Services Questions <a name="6"></a>
 * Web servers
 * Databases
 * Containers
@@ -79,7 +95,7 @@
 * Solution: Diagramming web architecture (see solution in Pdf file)
 * Quiz
   * 
-# 6. Wrapping Up your Interview
+## 7. Wrapping Up your Interview <a name="7"></a>
 * Asking Questions
 * Following up
 * Quiz
