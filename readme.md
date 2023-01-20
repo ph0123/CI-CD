@@ -67,7 +67,7 @@
 * Lean vs Agile vs DevOps
 * CI/CD
   * CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. CI/CD services compile the incremental code changes made by developers, then link and package them into software deliverables.[2] Automated tests verify the software functionality, and automated deployment services deliver them to end users.[3] The aim is to increase early defect discovery, increase productivity, and provide faster release cycles. The process contrasts with traditional methods where a collection of software updates were integrated into one large batch before deploying the newer version.
-  * CI/CD process <img src="CICD.png" width="200" height="200" />
+  * CI/CD process <img src="CICD.png" width="400" height="300" />
 * Configuration management
 * Monitoring and alerting
 * Testing
